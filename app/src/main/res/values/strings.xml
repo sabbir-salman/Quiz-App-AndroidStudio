@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="quizzles">Quizzles</string>
+    <string name="brain">BRAIN</string>
+    <string name="who_is_the_most_honorable_person_in_seven_kingom">Who is the most honorable person in seven kingom?</string>
+    <string name="submit">Submit</string>
+    <string name="let_s_play">Let\'s Play</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="jaehaerys_i_targaryen">Jaehaerys I Targaryen</string>
+    <string name="jon_arryn">Jon Arryn</string>
+    <string name="ned_stark">Ned Stark</string>
+</resources>
